@@ -3,7 +3,7 @@
 ## Introdução
 
 * Desafio de automação no site dos correios simulando algumuns fluxos pelo site como navegação, paginação e busca. 
-A arquitetura foi baseada semelhantemente a de um projeto em Ruby, foi um tese que fiz para ver como esse desing se comporta co uma linguagem mais verbosa como java.
+ A arquitetura foi baseada na de um projeto de Automação em Ruby, foi um tese que fiz para ver como esse desing se comporta co uma linguagem mais verbosa como java.
 
   * Requisitos para o projeto:
 
