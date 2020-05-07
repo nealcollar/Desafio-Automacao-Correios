@@ -9,7 +9,7 @@
 
 ### 1 - Exercicio
 
-* PNo site dos correios, pesquisar um CEP e dar output das informações retornadas.
+* No site dos correios, pesquisar um CEP e dar output das informações retornadas.
 
 ### 2 - Exercicio
 
