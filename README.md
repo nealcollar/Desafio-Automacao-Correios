@@ -11,7 +11,7 @@ A arquitetura foi baseada semelhantemente a de um projeto em Ruby, foi um tese q
     * Ter **Intellij** instalado
     * Framewors Utilizados **TestNG** e **Selenium**
 
- * Qualquer sugestão é bem vinda e será revisada a partir de do `git flow padrão`, ao pedir para se juntar na branch principal coloque seus dados no final do `README` para que possa entrar em contato para debater as soluções.
+ * Qualquer sugestão é bem vinda e será revisada a partir do `git flow padrão`, ao pedir para se juntar na branch principal coloque seus dados no final do `README` para que possa entrar em contato para debater as soluções.
 
 ### 1 - Exercicio
 
